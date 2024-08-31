@@ -29,3 +29,4 @@ auth-service:
   userRegErr: User Creation Failed
   login: Login Success
   loginErr: Invalid Credentials  
+
